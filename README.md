@@ -76,11 +76,18 @@
 <h2 align="left">Contacto</h2>
 
 <p align="center">
-  <a href="mailto:montanorodriguezclara@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
-  <a href="https://linkedin.com/in/claramontanorodriguez"><img width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-  <a href="https://montanorodriguezclara.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png"></a>
+  <a href="mailto:montanorodriguezclara@gmail.com">
+    📧 montanorodriguezclara@gmail.com
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/claramontanorodriguez/">
+    🔗 LinkedIn
+  </a>
+  <br>
+  <a href="https://montanorodriguezclara.com">
+    🌐 Mi página web
+  </a>
 </p>
-
 
 
 
