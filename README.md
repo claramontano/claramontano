@@ -10,8 +10,7 @@
 - 🌐 Puedes conocerme mejor visitando [mi página web](https://montanorodriguezclara.com/)
 - 📫 Puedes contactarme por correo: montanorodriguezclara@gmail.com
 
-
-  
+<br><br>
 
 <h2 align="left">Lenguajes y herramientas</h2>
 
