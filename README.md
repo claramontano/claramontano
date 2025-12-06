@@ -17,7 +17,7 @@
  
 <br>
 
-<h3 align="centre">🌱 Todo hombre puede ser, si se lo propone, escultor de su propio cerebro. "Santiago Ramón y Cajal"</h2>
+<h3 align="center">Todo hombre puede ser, si se lo propone, escultor de su propio cerebro. "Santiago Ramón y Cajal"</h2>
 
 
   <!---------------------
@@ -25,7 +25,7 @@
  ----------------------->
 
 <br>
-<h2 align="left">🙋‍♀️ Sobre mí</h2>
+<h2 align="left">Sobre mí</h2>
 
 - 💡 Me apasiona tanto el desarrollo BackEnd como el Frontend.
 - 🧮 Apasionada de las maatemáticas y los datos.
@@ -73,7 +73,7 @@
 
 <br>
 
-<h2 align="left">📬 Contacto</h2>
+<h2 align="left">Contacto</h2>
 
 <p align="center">
   <a href="mailto:montanorodriguezclara@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
