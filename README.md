@@ -10,6 +10,33 @@
 - 🌐 Puedes conocerme mejor visitando [mi página web](https://montanorodriguezclara.com/)
 - 📫 Puedes contactarme por correo: montanorodriguezclara@gmail.com
 
+
+  <!--------------------
+      |    FRASEE 
+  ----------------------->
+ 
+<br>
+
+<h3 align="centre">🌱 Todo hombre puede ser, si se lo propone, escultor de su propio cerebro. "Santiago Ramón y Cajal"</h2>
+
+
+  <!---------------------
+      |    SOBRE MI
+ ----------------------->
+
+<br>
+<h2 align="left">🙋‍♀️ Sobre mí</h2>
+
+- 💡 Me apasiona tanto el desarrollo BackEnd como el Frontend.
+- 🧮 Apasionada de las maatemáticas y los datos.
+- 🚀 Estoy en constante aprendizaje y siempre buscando nuevos retos.  
+- 📚 Actualmente estudiando 2º de DAW.  
+- ☁️ Además me estoy formando en AWS.
+
+  <!--------------------
+      |    LENGUAJES 
+  ----------------------->
+ 
 <br>
 
 <h2 align="left">Lenguajes y herramientas</h2>
@@ -38,6 +65,23 @@
 
   <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
-
-
 </p>
+
+  <!---------------------
+      |    CONTACTO
+ ----------------------->
+
+<br>
+
+<h2 align="left">📬 Contacto</h2>
+
+<p align="center">
+  <a href="mailto:montanorodriguezclara@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
+  <a href="https://linkedin.com/in/claramontanorodriguez"><img width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+  <a href="https://montanorodriguezclara.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png"></a>
+</p>
+
+
+
+
+
