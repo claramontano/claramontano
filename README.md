@@ -1,8 +1,7 @@
 
 ![baner1](https://github.com/user-attachments/assets/8bb43a33-28cc-409e-9271-95dbdeb853ab)
 
-# Hola!! 👋, bienvenido a mi perfil de Github 💻
-
+<h1 align="center">Hola!! 👋, bienvenido a mi perfil de Github 💻</h1>
 
 
 <!--
