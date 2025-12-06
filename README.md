@@ -14,7 +14,7 @@
 
 <h3>Lenguajes y herramientas:</h3>
 
-<p align="left">
+<p align="center">
   <!-- Lenguajes -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
