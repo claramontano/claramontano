@@ -77,15 +77,15 @@
 
 <p align="center">
   <a href="mailto:montanorodriguezclara@gmail.com">
-    📧 montanorodriguezclara@gmail.com
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <br>
-  <a href="https://www.linkedin.com/in/claramontanorodriguez/">
-    🔗 LinkedIn
+
+  <a href="https://www.linkedin.com/in/claramontanorodriguez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br>
-  <a href="https://montanorodriguezclara.com">
-    🌐 Mi página web
+
+  <a href="https://montanorodriguezclara.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
