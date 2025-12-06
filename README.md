@@ -17,7 +17,9 @@
  
 <br>
 
-<h3 align="center">Todo hombre puede ser, si se lo propone, escultor de su propio cerebro. "Santiago Ramón y Cajal"</h2>
+<p align="center" style="color:#3DA5FF; font-size:18px;">
+  <i>Todo hombre puede ser, si se lo propone, escultor de su propio cerebro. — Santiago Ramón y Cajal</i>
+</p>
 
 
   <!---------------------
