@@ -1,5 +1,6 @@
 
-![baner1](https://github.com/user-attachments/assets/8bb43a33-28cc-409e-9271-95dbdeb853ab)
+![baner2](https://github.com/user-attachments/assets/8f7a53b2-50d8-4e99-b2a2-0eda9a70312b)
+
 
 <h1 align="center">Hola!! 👋, bienvenido a mi perfil de Github 💻</h1>
 
