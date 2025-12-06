@@ -17,11 +17,14 @@
  
 <br>
 
-<div align="center" style="color:#3DA5FF; font-size:20px;">
-  <i>Todo hombre puede ser, si se lo propone, escultor de su propio cerebro.<br>
-  — Santiago Ramón y Cajal</i>
-</div>
-
+<p align="center">
+  <font color="#3DA5FF">
+    <strong><i>
+      Todo hombre puede ser, si se lo propone, escultor de su propio cerebro.<br>
+      — Santiago Ramón y Cajal
+    </i></strong>
+  </font>
+</p>
 
   <!---------------------
       |    SOBRE MI
