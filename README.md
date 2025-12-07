@@ -2,7 +2,7 @@
 ![baner2](https://github.com/user-attachments/assets/8f7a53b2-50d8-4e99-b2a2-0eda9a70312b)
 
 
-<h1 align="center">Hola!! 👋, bienvenido a mi perfil de Github 💻</h1>
+<h1 align="center">Hola!! 👋 Te doy la bienvenida a mi perfil de Github 💻</h1>
 
 - 🧠 Estudiando actualmente 2º de Desarrollo de Aplicaciones Web.
 - 💻 Puedes encontrar mis proyectos en la pestaña [repositorios de Github](https://github.com/claramontano)
