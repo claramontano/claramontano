@@ -2,94 +2,35 @@
 ![baner2](https://github.com/user-attachments/assets/8f7a53b2-50d8-4e99-b2a2-0eda9a70312b)
 
 
-<h1 align="center">Hola!! 👋 Te doy la bienvenida a mi perfil de Github 💻</h1>
+# Clara Montaño Rodríguez
 
-- 🧠 Estudiando actualmente 2º de Desarrollo de Aplicaciones Web.
-- 💻 Puedes encontrar mis proyectos en la pestaña [repositorios de Github](https://github.com/claramontano)
-- 📚 Conoce mi experiencia y formación en [LinkedIn](https://www.linkedin.com/in/claramontanorodriguez/)
-- 🌐 Puedes conocerme mejor visitando [mi página web](https://montanorodriguezclara.com/)
-- 📫 Puedes contactarme por correo: montanorodriguezclara@gmail.com
+Desarrolladora web con experiencia en automatización de procesos, análisis de datos e interfaces funcionales.
 
+## Stack
 
-  <!--------------------
-      |    FRASEE 
-  ----------------------->
- 
-<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<p align="center" style="color:#32E0F0; font-size:18px;">
-  <i>Todo hombre puede ser, si se lo propone, escultor de su propio cerebro. — Santiago Ramón y Cajal</i>
-</p>
+## Proyectos destacados
 
-  <!---------------------
-      |    SOBRE MI
- ----------------------->
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [Kanbi](https://github.com/claramontano/kanbi) | Kanban board con drag & drop | React · Tailwind · dnd-kit |
+| [Portfolio](https://github.com/claramontano/portfolio) | Portfolio personal | HTML · CSS · JS |
 
-<br>
-<h2 align="left">Sobre mí</h2>
+## Encuéntrame
 
-- 💡 Me apasiona tanto el desarrollo BackEnd como el Frontend.
-- 🧮 Apasionada de las maatemáticas y los datos.
-- 🚀 Estoy en constante aprendizaje y siempre buscando nuevos retos.  
-- 📚 Actualmente estudiando 2º de DAW.  
-- ☁️ Además me estoy formando en AWS.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claramontanorodriguez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://montanorodriguezclara.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:montanorodriguezclara@gmail.com)
 
-  <!--------------------
-      |    LENGUAJES 
-  ----------------------->
- 
-<br>
+---
 
-<h2 align="left">Lenguajes y herramientas</h2>
-
-<p align="center">
-  <!-- Lenguajes -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/>
-
-  <!-- IDE + herramientas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
-
-  <!-- Bases de datos -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45"/>
-
-  <!-- Sistemas operativos -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
-</p>
-
-  <!---------------------
-      |    CONTACTO
- ----------------------->
-
-<br>
-
-<h2 align="left">Contacto</h2>
-
-<p align="center">
-  <a href="mailto:montanorodriguezclara@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/claramontanorodriguez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://montanorodriguezclara.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
-
-
+*Disponible a partir de junio 2026 · Madrid*
 
