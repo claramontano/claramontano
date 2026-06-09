@@ -1,4 +1,4 @@
-<img width="1062" height="295" alt="image" src="https://github.com/user-attachments/assets/a00c8c45-f9fb-48c5-ba68-2238f768288f" />
+<img width="1650" height="367" alt="image" src="https://github.com/user-attachments/assets/06ad3d4c-72a0-425f-a368-c65835074896" />
 
 
 # Clara Montaño Rodríguez
