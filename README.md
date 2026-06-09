@@ -1,5 +1,4 @@
-
-![baner2](https://github.com/user-attachments/assets/8f7a53b2-50d8-4e99-b2a2-0eda9a70312b)
+<img width="1062" height="295" alt="image" src="https://github.com/user-attachments/assets/a00c8c45-f9fb-48c5-ba68-2238f768288f" />
 
 
 # Clara Montaño Rodríguez
