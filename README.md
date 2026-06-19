@@ -23,6 +23,7 @@ Desarrolladora web con experiencia en automatización de procesos, análisis de 
 | [Kanbi](https://github.com/claramontano/kanbi) | Kanban board con drag & drop | React · Tailwind · dnd-kit |
 | [Portfolio](https://github.com/claramontano/portfolio) | Portfolio personal | HTML · CSS · JS |
 | [SignIn-SignUp](https://github.com/sergio-ab/SignIn-SignUp-) | App de autenticación en colaboración con Sergio | JavaScript |
+| [Finance Tracker](https://github.com/claramontano/finance-tracker) | Dashboard de finanzas con gráficas y modo oscuro | React · Tailwind · Recharts |
 
 ## Encuéntrame
 
@@ -32,5 +33,5 @@ Desarrolladora web con experiencia en automatización de procesos, análisis de 
 
 ---
 
-*Disponible a partir de junio 2026 · Madrid*
+*Disponible ahora · Madrid*
 
