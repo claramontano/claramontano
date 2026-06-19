@@ -20,10 +20,10 @@ Desarrolladora web con experiencia en automatización de procesos, análisis de 
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [Kanbi](https://github.com/claramontano/kanbi) | Kanban board con drag & drop | React · Tailwind · dnd-kit |
-| [Portfolio](https://github.com/claramontano/portfolio) | Portfolio personal | HTML · CSS · JS |
+| [Kanbi](https://github.com/claramontano/kanbi) [🔗](https://kanbi-topaz.vercel.app) | Kanban board con drag & drop | React · Tailwind · dnd-kit |
+| [Finance Tracker](https://github.com/claramontano/finance-tracker) [🔗](https://finance-tracker-green-psi.vercel.app) | Dashboard de finanzas con gráficas y modo oscuro | React · Tailwind · Recharts |
+| [Portfolio](https://montanorodriguezclara.com) | Portfolio personal | HTML · CSS · JS |
 | [SignIn-SignUp](https://github.com/sergio-ab/SignIn-SignUp-) | App de autenticación en colaboración con Sergio | JavaScript |
-| [Finance Tracker](https://github.com/claramontano/finance-tracker) | Dashboard de finanzas con gráficas y modo oscuro | React · Tailwind · Recharts |
 
 ## Encuéntrame
 
